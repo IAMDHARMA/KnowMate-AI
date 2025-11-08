@@ -1,4 +1,4 @@
-# 🧠 GENAI-PROJECT — Generative AI Knowledge Base Chatbot
+# 🧠 KnowMate AI — Generative AI Knowledge Base Chatbot
 
 ## 📘 Overview
 The **GenAI Project** is a Flask-based Generative AI system designed to:
